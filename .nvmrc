@@ -1,0 +1,3 @@
+# Build environment setup
+NODE_VERSION=18
+NPM_VERSION=9
